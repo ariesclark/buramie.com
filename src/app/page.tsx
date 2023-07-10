@@ -409,7 +409,7 @@ export default function Home() {
 	}, [playing]);
 
 	return (
-		<div className="relative flex h-screen w-screen items-center justify-center">
+		<div className="relative flex h-screen w-screen items-center justify-center text-white">
 			<Gallery
 				enableImageSelection={false}
 				images={images}
