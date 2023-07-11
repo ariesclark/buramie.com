@@ -7,6 +7,11 @@ import { Gallery, ThumbnailImageProps } from "react-grid-gallery";
 
 const images = [
 	{
+		src: "https://cdn.discordapp.com/attachments/1032954836016173066/1128113565472133150/VRChat_2023-07-07_22-55-22.png",
+		width: 1920,
+		height: 1080
+	},
+	{
 		src: "https://media.discordapp.net/attachments/1032954836016173066/1128091832979566742/file_dad791ab-7e04-4475-b4d3-8b447bc7a4bb.png",
 		width: 1280,
 		height: 720
